@@ -1,0 +1,7 @@
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\bin\Debug\CodeStub3.exe.config
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\bin\Debug\CodeStub3.exe
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\bin\Debug\CodeStub3.pdb
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\obj\Debug\CodeStub3.csproj.AssemblyReference.cache
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\obj\Debug\CodeStub3.csproj.CoreCompileInputs.cache
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\obj\Debug\CodeStub3.exe
+C:\Users\srgia\OneDrive\Documents\JobFolder\Amentum\CodeTests\CodeStub3\obj\Debug\CodeStub3.pdb
